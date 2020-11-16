@@ -4,7 +4,8 @@
   "description": "My npm chalk project",
   "main": "app.js",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "chalk-animation": "^1.6.0"
   },
   "devDependencies": {},
   "scripts": {
